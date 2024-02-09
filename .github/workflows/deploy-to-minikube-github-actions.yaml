@@ -28,3 +28,4 @@ jobs:
           minikube service nodejs-app --url
           minikube logs --file=logs.txt
           
+          
